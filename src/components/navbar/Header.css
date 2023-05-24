@@ -1,0 +1,32 @@
+.img{
+    background: url(../../assets//img/header2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img .wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.img-navbar{
+    background-color: #0099ff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 10;
+}
+ .wave-top{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -9;
+}
+.header1-bg{
+    background-color: #0099ff;
+}
+

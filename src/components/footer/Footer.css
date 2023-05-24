@@ -1,0 +1,13 @@
+.footer-bg{
+    position: relative;
+    z-index:10;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+.footer-bg .wave-footer{
+    position: absolute;
+    top: -10vh;
+    left: 0;
+    z-index: -10;
+    width: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
